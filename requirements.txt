@@ -2,3 +2,4 @@ streamlit>=1.35
 pandas
 numpy
 numpy-financial   # ← this line solves the error
+matplotlib    # ← Add this line
